@@ -1,5 +1,10 @@
+import HomePage from "./pages/visitor/HomePage";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 function App() {
-  return <></>;
+  return <>
+    <HomePage />
+  </>;
 }
 
 export default App;
