@@ -6,7 +6,7 @@ const HomeSearchBar = () => {
     return (
         <div className="arkaplanHomeSearch">
             <Container >
-                HomeSearchBar Sayfasıı
+                HomeSearchBar Sayfası
             </Container>
         </div>
     )
